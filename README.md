@@ -1,7 +1,6 @@
 # 555-Cascade-blinky
 
 ## Description
-This circuit combines two 555 timers to generate a pulse burst, what makes the led blink, which duration can be controled. So, instead of a unique long pulse or a continued pulsing, you can get both their advantadges at the same time.
 
 ## How it works
 - The first 555 works in monostable mode, when it gets an extern pulse it generates an unique pulsation of a determined duration **t1**.
@@ -11,8 +10,12 @@ This circuit combines two 555 timers to generate a pulse burst, what makes the l
 The practice result is that the when activating the circuit you don't give an only pulse but a rush within a determined **t1** and after it finishes without any external interaction.
 
 ## Link to the project
-(Here it is!)[https://www.falstad.com/s.php?s=5m3lyf]
+[Here it is!](https://www.falstad.com/s.php?s=5m3lyf)
 
 ## Screenshots
 <img width="748" height="546" alt="image" src="https://github.com/user-attachments/assets/48bec81f-f0b0-499a-8483-9515467387dd" />
+https://github.com/user-attachments/assets/fa1b637f-39d4-49fa-b3f9-551a6ba1491d
+
+## License
+This project is under **MIT** License. Read `LICENSE.txt` for more information. 
 
